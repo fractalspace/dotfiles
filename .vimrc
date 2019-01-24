@@ -12,7 +12,7 @@ Plugin 'tpope/vim-vinegar'
 Plugin 'Yggdroot/LeaderF'
 Plugin 'Rip-Rip/clang_complete'
 Plugin 'majutsushi/tagbar'
-Plugin 'git://git.wincent.com/command-t.git'
+Plugin 'wincent/command-t'
 Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 Plugin 'Valloric/YouCompleteMe'
 Bundle 'zhaocai/GoldenView.Vim'

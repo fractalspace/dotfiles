@@ -1,6 +1,6 @@
 set nocompatible              " be iMproved, required
 filetype off                  " required
-
+set encoding=utf-8
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
 " "--------------------------------------------------------------
@@ -38,3 +38,4 @@ nnoremap ,s :split **/*
 " path to directory where library can be found
 let g:clang_library_path='/usr/lib/llvm-3.8/lib'
 nmap <F8> :TagbarToggle<CR>
+set rtp+=~/.fzf
